@@ -1,0 +1,2 @@
+INDEX VERSION 1.131+C:\Users\Anshika.Garg\Desktop\The Retail Web App\.metadata\.plugins\org.eclipse.jdt.core
+1453888382.index
